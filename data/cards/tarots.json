@@ -1,0 +1,178 @@
+[
+  {
+    "index": 1,
+    "name": "The Fool",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Creates a copy of the last Joker played.",
+    "image_url": "https://balatro.cards/images/tarot/the_fool.png"
+  },
+  {
+    "index": 2,
+    "name": "The Magician",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Adds +1 multiplier to a random card in your hand.",
+    "image_url": "https://balatro.cards/images/tarot/the_magician.png"
+  },
+  {
+    "index": 3,
+    "name": "The High Priestess",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Adds a random tag to a card in your hand.",
+    "image_url": "https://balatro.cards/images/tarot/the_high_priestess.png"
+  },
+  {
+    "index": 4,
+    "name": "The Empress",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Adds +1 chip to all cards in your hand.",
+    "image_url": "https://balatro.cards/images/tarot/the_empress.png"
+  },
+  {
+    "index": 5,
+    "name": "The Emperor",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Adds +1 multiplier to all cards in your hand.",
+    "image_url": "https://balatro.cards/images/tarot/the_emperor.png"
+  },
+  {
+    "index": 6,
+    "name": "The Hierophant",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Spawns a Planet card.",
+    "image_url": "https://balatro.cards/images/tarot/the_hierophant.png"
+  },
+  {
+    "index": 7,
+    "name": "The Lovers",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Duplicates a card in your hand.",
+    "image_url": "https://balatro.cards/images/tarot/the_lovers.png"
+  },
+  {
+    "index": 8,
+    "name": "The Chariot",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Transforms a card into a Wild card.",
+    "image_url": "https://balatro.cards/images/tarot/the_chariot.png"
+  },
+  {
+    "index": 9,
+    "name": "Justice",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Transforms a card into a Steel card.",
+    "image_url": "https://balatro.cards/images/tarot/justice.png"
+  },
+  {
+    "index": 10,
+    "name": "The Hermit",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Transforms a card into a Lucky card.",
+    "image_url": "https://balatro.cards/images/tarot/the_hermit.png"
+  },
+  {
+    "index": 11,
+    "name": "Wheel of Fortune",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Transforms a card into a random enhanced card.",
+    "image_url": "https://balatro.cards/images/tarot/wheel_of_fortune.png"
+  },
+  {
+    "index": 12,
+    "name": "Strength",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Spawns a Spectral card.",
+    "image_url": "https://balatro.cards/images/tarot/strength.png"
+  },
+  {
+    "index": 13,
+    "name": "The Hanged Man",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Destroys a card in your hand.",
+    "image_url": "https://balatro.cards/images/tarot/the_hanged_man.png"
+  },
+  {
+    "index": 14,
+    "name": "Death",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Destroys a Joker card.",
+    "image_url": "https://balatro.cards/images/tarot/death.png"
+  },
+  {
+    "index": 15,
+    "name": "Temperance",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Destroys your current hand for money.",
+    "image_url": "https://balatro.cards/images/tarot/temperance.png"
+  },
+  {
+    "index": 16,
+    "name": "The Devil",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Adds a negative tag to a card in your hand.",
+    "image_url": "https://balatro.cards/images/tarot/the_devil.png"
+  },
+  {
+    "index": 17,
+    "name": "The Tower",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Rerolls the enhancement of a card.",
+    "image_url": "https://balatro.cards/images/tarot/the_tower.png"
+  },
+  {
+    "index": 18,
+    "name": "The Star",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Changes the suit of a card.",
+    "image_url": "https://balatro.cards/images/tarot/the_star.png"
+  },
+  {
+    "index": 19,
+    "name": "The Moon",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Changes the suit of all cards in your hand.",
+    "image_url": "https://balatro.cards/images/tarot/the_moon.png"
+  },
+  {
+    "index": 20,
+    "name": "The Sun",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Changes the rank of all cards in your hand.",
+    "image_url": "https://balatro.cards/images/tarot/the_sun.png"
+  },
+  {
+    "index": 21,
+    "name": "Judgement",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Spawns a random Joker.",
+    "image_url": "https://balatro.cards/images/tarot/judgement.png"
+  },
+  {
+    "index": 22,
+    "name": "The World",
+    "type": "Tarot",
+    "rarity": "Common",
+    "description": "Spawns a Voucher.",
+    "image_url": "https://balatro.cards/images/tarot/the_world.png"
+  }
+]

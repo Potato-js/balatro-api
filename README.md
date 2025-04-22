@@ -1,3 +1,3 @@
 # balatro-api
 
-My First API Project
+Effects for Jokers: Chips, Additive Mult, Multiplicative Mult, Chips & Additive Mult, Effect, Retrigger, Economy

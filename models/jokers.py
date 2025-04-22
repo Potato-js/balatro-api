@@ -1,11 +1,11 @@
 from pydantic import BaseModel
-from typing import List
+from typing import List, Optional
 
 
-class Card(BaseModel):
+class Jokers(BaseModel):
     name: str
     type: str
-    rarity: str
+    rarity: Optional[str]
     description: str
     effects: List[str]
     image_url: str
