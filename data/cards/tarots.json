@@ -3,176 +3,154 @@
     "index": 1,
     "name": "The Fool",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Creates a copy of the last Joker played.",
-    "image_url": "https://balatro.cards/images/tarot/the_fool.png"
+    "description": "Creates a copy of the last player Tarot or Planet card made",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/6/61/Tarot_The_Fool.png/revision/latest?cb=20230925220339"
   },
   {
     "index": 2,
     "name": "The Magician",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Adds +1 multiplier to a random card in your hand.",
-    "image_url": "https://balatro.cards/images/tarot/the_magician.png"
+    "description": "Enhances 2 selected cards to Lucky Cards.",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/7/78/Tarot_The_Magician.png/revision/latest?cb=20230925220456"
   },
   {
     "index": 3,
     "name": "The High Priestess",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Adds a random tag to a card in your hand.",
-    "image_url": "https://balatro.cards/images/tarot/the_high_priestess.png"
+    "description": "Creates up to 2 planet cards. (Must have room)",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/c/cc/Tarot_The_High_Priestess.png/revision/latest?cb=20230925220519"
   },
   {
     "index": 4,
     "name": "The Empress",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Adds +1 chip to all cards in your hand.",
-    "image_url": "https://balatro.cards/images/tarot/the_empress.png"
+    "description": "Enhances 2 selected cards to Mult cards.",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/8/8b/Tarot_The_Empress.png/revision/latest?cb=20230925220549"
   },
   {
     "index": 5,
     "name": "The Emperor",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Adds +1 multiplier to all cards in your hand.",
-    "image_url": "https://balatro.cards/images/tarot/the_emperor.png"
+    "description": "Creates up to 2 random Tarot cards. (Must have room)",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/1/11/Tarot_The_Emperor.png/revision/latest?cb=20230925220604"
   },
   {
     "index": 6,
     "name": "The Hierophant",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Spawns a Planet card.",
-    "image_url": "https://balatro.cards/images/tarot/the_hierophant.png"
+    "description": "Enhances 2 selected cards to Bonus Cards",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/b/bc/Tarot_The_Hierophant.png/revision/latest?cb=20230925220638"
   },
   {
     "index": 7,
     "name": "The Lovers",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Duplicates a card in your hand.",
-    "image_url": "https://balatro.cards/images/tarot/the_lovers.png"
+    "description": "Enhances 1 selected card into a Wild Card",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/4/4c/Tarot_The_Lovers.png/revision/latest?cb=20230925220703"
   },
   {
     "index": 8,
     "name": "The Chariot",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Transforms a card into a Wild card.",
-    "image_url": "https://balatro.cards/images/tarot/the_chariot.png"
+    "description": "Enhances 1 selected card into a Steel Card",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/f/f8/Tarot_The_Chariot.png/revision/latest?cb=20230925220724"
   },
   {
     "index": 9,
     "name": "Justice",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Transforms a card into a Steel card.",
-    "image_url": "https://balatro.cards/images/tarot/justice.png"
+    "description": "Enhances 1 selected card into a Glass Card",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/4/45/Tarot_Justice.png/revision/latest?cb=20230925220748"
   },
   {
     "index": 10,
     "name": "The Hermit",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Transforms a card into a Lucky card.",
-    "image_url": "https://balatro.cards/images/tarot/the_hermit.png"
+    "description": "Doubles money (Max of $20)",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/1/19/Tarot_The_Hermit.png/revision/latest?cb=20230925220806"
   },
   {
     "index": 11,
     "name": "Wheel of Fortune",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Transforms a card into a random enhanced card.",
-    "image_url": "https://balatro.cards/images/tarot/wheel_of_fortune.png"
+    "description": "1 in 4 chance to add Foil, Holographic, or Polychrome edition to a random Joker",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/5/57/Tarot_The_Wheel_of_Fortune.png/revision/latest?cb=20230925220831"
   },
   {
     "index": 12,
     "name": "Strength",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Spawns a Spectral card.",
-    "image_url": "https://balatro.cards/images/tarot/strength.png"
+    "description": "Increases rank of up to 2 selected cards by 1",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/7/7d/Tarot_Strength.png/revision/latest?cb=20230925220915"
   },
   {
     "index": 13,
     "name": "The Hanged Man",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Destroys a card in your hand.",
-    "image_url": "https://balatro.cards/images/tarot/the_hanged_man.png"
+    "description": "Destroys up to 2 selected cards",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/d/d6/Tarot_The_Hanged_Man.png/revision/latest?cb=20230925220935"
   },
   {
     "index": 14,
     "name": "Death",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Destroys a Joker card.",
-    "image_url": "https://balatro.cards/images/tarot/death.png"
+    "description": "Select 2 cards, convert the left card into the right card (Drag to rearrange)",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/4/4d/Tarot_Death.png/revision/latest?cb=20230925221002"
   },
   {
     "index": 15,
     "name": "Temperance",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Destroys your current hand for money.",
-    "image_url": "https://balatro.cards/images/tarot/temperance.png"
+    "description": "Gives the total sell value of all current Jokers. (Max of $50)",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/6/67/Tarot_Temperance.png/revision/latest?cb=20230925221029"
   },
   {
     "index": 16,
     "name": "The Devil",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Adds a negative tag to a card in your hand.",
-    "image_url": "https://balatro.cards/images/tarot/the_devil.png"
+    "description": "Enhances 1 selected card into a Gold Card",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/7/72/Tarot_The_Devil.png/revision/latest?cb=20230925221050"
   },
   {
     "index": 17,
     "name": "The Tower",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Rerolls the enhancement of a card.",
-    "image_url": "https://balatro.cards/images/tarot/the_tower.png"
+    "description": "Enhances 1 selected card into a Stone Card",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/a/af/Tarot_The_Tower.png/revision/latest?cb=20230925221108"
   },
   {
     "index": 18,
     "name": "The Star",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Changes the suit of a card.",
-    "image_url": "https://balatro.cards/images/tarot/the_star.png"
+    "description": "Converts up to 3 selected cards to Diamonds",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/e/e1/Tarot_The_Star.png/revision/latest?cb=20230925221142"
   },
   {
     "index": 19,
     "name": "The Moon",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Changes the suit of all cards in your hand.",
-    "image_url": "https://balatro.cards/images/tarot/the_moon.png"
+    "description": "Converts up to 3 selected cards to Clubs",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/2/29/Tarot_The_Moon.png/revision/latest?cb=20230925221203"
   },
   {
     "index": 20,
     "name": "The Sun",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Changes the rank of all cards in your hand.",
-    "image_url": "https://balatro.cards/images/tarot/the_sun.png"
+    "description": "Converts up to 3 selected cards to  Hearts",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/2/2e/Tarot_The_Sun.png/revision/latest?cb=20230925221221"
   },
   {
     "index": 21,
     "name": "Judgement",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Spawns a random Joker.",
-    "image_url": "https://balatro.cards/images/tarot/judgement.png"
+    "description": "Creates a random Joker card. (Must have room)",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/d/d9/Tarot_Judgement.png/revision/latest?cb=20230925221239"
   },
   {
     "index": 22,
     "name": "The World",
     "type": "Tarot",
-    "rarity": "Common",
-    "description": "Spawns a Voucher.",
-    "image_url": "https://balatro.cards/images/tarot/the_world.png"
+    "description": "Converts up to 3 selected cards to Spades",
+    "image_url": "https://static.wikia.nocookie.net/balatrogame/images/4/49/Tarot_The_World.png/revision/latest?cb=20230925221302"
   }
 ]
